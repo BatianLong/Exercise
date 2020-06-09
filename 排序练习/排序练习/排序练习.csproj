@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="E_BubbleSort.cs" />
     <Compile Include="E_Daffodils.cs" />
+    <Compile Include="E_ReturnMaxAndMin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
